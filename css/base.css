@@ -51,7 +51,7 @@ body {
 	overflow-x: hidden;
 }
 
-/* Page Loader */
+/* Page Loaer */
 .js .loading::before,
 .js .loading::after {
 	content: '';
